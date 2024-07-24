@@ -1,0 +1,13 @@
+# ninja log v6
+2	606	1721672850754075766	CMakeFiles/ChordProgressionGen.dir/Chord.cpp.o	dd1ce9765538aaab
+3	621	1721672850754726927	CMakeFiles/ChordProgressionGen.dir/ChordProgression.cpp.o	6e9e813caa52a39d
+2	623	1721672850754244681	CMakeFiles/ChordProgressionGen.dir/Key.cpp.o	2adc431fb66ae5e5
+1	650	1721672850753051898	CMakeFiles/ChordProgressionGen.dir/main.cpp.o	a68ea5288a248ef7
+650	772	1721672851402423921	ChordProgressionGen	13f7d96b684a0edc
+8	3426	1721760517716946294	CMakeFiles/ChordProgressionGen.dir/Key.cpp.o	2adc431fb66ae5e5
+3426	5111	1721760521134467234	ChordProgressionGen	13f7d96b684a0edc
+9	565	1721762387728726946	CMakeFiles/ChordProgressionGen.dir/Chord.cpp.o	dd1ce9765538aaab
+9	587	1721762387729038270	CMakeFiles/ChordProgressionGen.dir/ChordProgression.cpp.o	6e9e813caa52a39d
+7	609	1721762387727705852	CMakeFiles/ChordProgressionGen.dir/main.cpp.o	a68ea5288a248ef7
+9	650	1721762387728893816	CMakeFiles/ChordProgressionGen.dir/Key.cpp.o	2adc431fb66ae5e5
+650	772	1721762388370545112	ChordProgressionGen	13f7d96b684a0edc
